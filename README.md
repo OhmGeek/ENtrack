@@ -9,7 +9,7 @@ Usage:
 
 In order to get the information about a specific track (perhaps a track from Spotify), you need to create an instance of the TrackFetcher Class:
 
-t = TrackFetcher('<API KEY>')
+t = TrackFetcher('API KEY')
 
 Now that the object has been created, we can use it to get a dictionary containing the informationa about a track:
 
